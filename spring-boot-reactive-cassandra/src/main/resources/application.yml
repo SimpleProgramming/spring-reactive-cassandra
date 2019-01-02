@@ -1,0 +1,8 @@
+server:
+  port: 9001
+  
+spring:
+  data:
+    cassandra:
+      port: 9042
+      keyspace-name: reactive_cassandra
